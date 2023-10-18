@@ -1,8 +1,5 @@
 package gestionpedidos;
-/**
- *
- * @author Ricardo Daniel Hernández Sosa (PlansVsAngry999).
- */
+
 public class JFrame_gestionPedidos extends javax.swing.JFrame {
     public JFrame_gestionPedidos() {
         initComponents();
